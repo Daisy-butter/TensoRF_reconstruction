@@ -6,6 +6,15 @@ This project implements efficient 3D reconstruction and novel view synthesis usi
 TensoRF significantly accelerates training and rendering by replacing NeRF’s dense MLP with compact tensor factorization, while maintaining high-quality reconstruction.  
 We use this framework to reconstruct real-world objects from multi-view images captured with a handheld smartphone, and visualize the reconstruction via novel view rendering.
 
+## 📦 Dataset Access
+
+The real-world dataset used in this project, along with COLMAP-processed poses and the resulting outputs, can be downloaded via the following link:
+
+🔗 [Baidu Netdisk Download – TensoRF Dataset and Results](https://pan.baidu.com/s/16vd68_PegMkkKxej7uPrKg?pwd=9buk) (extraction code: `9buk`)
+
+> Shared by a Baidu Netdisk Super Member (V5).
+
+
 > 🔗 **Official TensoRF repo:** https://github.com/apchenstu/TensoRF
 
 ---
