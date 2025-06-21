@@ -12,9 +12,6 @@ The real-world dataset used in this project, along with COLMAP-processed poses a
 
 🔗 [Baidu Netdisk Download – TensoRF Dataset and Results](https://pan.baidu.com/s/16vd68_PegMkkKxej7uPrKg?pwd=9buk) (extraction code: `9buk`)
 
-> Shared by a Baidu Netdisk Super Member (V5).
-
-
 > 🔗 **Official TensoRF repo:** https://github.com/apchenstu/TensoRF
 
 ---
